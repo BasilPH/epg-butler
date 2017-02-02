@@ -1,0 +1,62 @@
+[
+  {
+    "Timestamp": "2017-02-02T15:56:08.829577Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:08.582Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/4\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/4/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/4\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:56:11.9869205Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:11.741Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/7\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/7/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/7\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:56:13.3150451Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:13.07Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/651\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/651/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/651\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:56:38.5257376Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:38.281Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/359\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/359/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/359\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:56:39.7601121Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:39.5Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/226\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/226/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/226\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:56:41.041363Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:56:40.793Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/136\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/136/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/136\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:59:09.4547381Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:59:09.211Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/325\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/325/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/325\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T15:59:11.985987Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T15:59:11.709Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/27\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/27/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/27\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T16:00:30.6902015Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T16:00:30.421Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/6\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/6/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/6\"}}"
+  },
+  {
+    "Timestamp": "2017-02-02T16:00:48.4870764Z",
+    "Type": "Eleanor.Notification.Device.Companion",
+    "Address": "Eleanor.Notification.Device.3491df38-868b-4c9f-8826-4d034bb6e542",
+    "Data": "{\"Timestamp\":\"2017-02-02T16:00:48.14Z\",\"Sender\":\"0b00001c-8542-ff92-ff2a-d463fe336dff\",\"Action\":\"Notify\",\"Signature\":\"3879088371\",\"Properties\":{\"Companion.Session.Expiry\":\"2017-02-02T16:06:05.374\",\"Device.Player.CurrentItem\":\"TV/634\",\"Device.Player.CurrentPosition\":\"0\",\"Device.Player.CurrentUri\":\"lalala://services.sg1.dev02.etvt01.sctv.ch/streaming/LiveTV/634/RTSP/0/None?access_token=7a18dd02-1687-4701-9de8-659b88b2c649&sa=true&svf=HD&redirect=true\",\"Device.Player.State\":\"Playing\",\"Device.Player.CurrentShapeAgnosticItem\":\"TV/634\"}}"
+  }
+]
