@@ -1,0 +1,10 @@
+---
+applications:
+- name: epg-butler
+  memory: 512MB
+  instances: 1
+
+  host: epg-butler
+
+  env:
+    DJANGO_SETTINGS_MODULE: epgbutler.settings.prod

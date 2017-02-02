@@ -95,3 +95,8 @@ ENV/
 
 # Dev db
 db.sqlite3
+
+#Secrets
+set_secrets
+
+.DS_Store
