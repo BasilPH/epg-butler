@@ -1,0 +1,21 @@
+{
+  "name": "epgbutler",
+  "homepage": "https://github.com/BasilPH/epg-butler",
+  "authors": [
+    "Basil Philipp <basil.philipp@genistat.ch>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
